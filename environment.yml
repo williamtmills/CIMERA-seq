@@ -1,0 +1,23 @@
+name: PACeR
+channels:
+ - bioconda
+dependencies:
+  - fastqc
+  - multiqc
+  - flash
+  - cutadapt
+  - blast
+  - hisat2
+  - samtools
+  - bedtools
+  - gatk4
+
+#  - fastqc=0.11.*
+#  - multiqc=1.12
+#  - flash2=2.2.*
+#  - cutadapt=3.7
+#  - blast=2.12.*
+#  - hisat2=2.2.*
+#  - samtools=1.15.*
+#  - bedtools=2.30.*
+#  - gatk4=4.2.6.*
